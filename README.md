@@ -2,7 +2,7 @@
 
 A full-stack Twitter clone built with **Next.js**, **Tailwind CSS**, **Supabase**, and **Drizzle ORM**. Deployed on **Vercel**.
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Frontend:** React, Next.js, Tailwind CSS  
 - **Backend:** Supabase (DB + Auth), Drizzle ORM  
@@ -10,22 +10,22 @@ A full-stack Twitter clone built with **Next.js**, **Tailwind CSS**, **Supabase*
 - **Deployment:** Vercel  
 - **Tooling:** TypeScript, ESLint, PostCSS
 
-## 📁 Key Folders
+##  Key Folders
 
 - `src/` – App code  
 - `drizzle/` – DB schema & migrations  
 - `supabase/` – Supabase types & config  
 - `public/` – Static files
 
- ## ✨ Features
+ ##  Features
 
-- 🔐 Authentication (Email & OAuth via Supabase)  
-- 📝 Create & display tweets  
-- 📱 Responsive design  
-- 🗃️ PostgreSQL schema with Drizzle  
-- ⚡ Fast SSR with Next.js  
+-  Authentication (Email & OAuth via Supabase)  
+-  Create & display tweets  
+-  Responsive design  
+-  PostgreSQL schema with Drizzle  
+-  Fast SSR with Next.js  
 
-## 🛠️ Setup
+##  Setup
 
 ```bash
 git clone https://github.com/your-username/twitter-clone.git
