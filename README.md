@@ -1,6 +1,6 @@
-# 🐦 Twitter Clone
+# 🐦 Social Media Application
 
-A full-stack Twitter clone built with **Next.js**, **Tailwind CSS**, **Supabase**, and **Drizzle ORM**. Deployed on **Vercel**.
+A full-stack Twitter-inspired social media application built with **Next.js**, **Tailwind CSS**, **Supabase**, and **Drizzle ORM**. Deployed on **Vercel**.
 
 ##  Tech Stack
 
